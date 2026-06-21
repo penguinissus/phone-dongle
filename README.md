@@ -14,6 +14,8 @@ Companies keep shrinking their devices and cutting off ports, so I wanted to mak
 # Images
 schematic  
 ![schematic](assets/schematic.png)  
+pcb editor  
+![pcb editor](assets/pcb-editor.png)  
 pcb front view  
 ![pcb front](assets/pcb-front.png)  
 pcb back view  
