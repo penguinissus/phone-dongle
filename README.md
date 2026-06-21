@@ -1,6 +1,6 @@
 # Phone Dongle
 A USB hub with a headphone jack (so important) that also doubles as a keychain.   
-zine  
+![zine](assets/phone-dongle-zine-v2.png)
 
 # Features
 1 upstream USB-C port splits into:  
