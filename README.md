@@ -21,5 +21,18 @@ pcb front view
 pcb back view  
 ![pcb back](assets/pcb-back.png)  
 
+# BOM
+|Part|Quantity|Price|
+|----:|:---|:-----|
+|1uF Capacitor|19|$0.78|
+|10uF Capacitor|1|$1.29|
+|Audio Socket|1|$0.51|
+|5.1k Resistor|2|$0.23|
+|56k Resistor|4|$0.24|
+|SL2.1s|1|$1.27|
+|PCM2704CDBR|1|$5.74|
+|USB-C Female Port|3|$1.41|
+|12MHz Oscillator|1|$0.60|
+
 # Resources
 The usb hub guide on fallout
